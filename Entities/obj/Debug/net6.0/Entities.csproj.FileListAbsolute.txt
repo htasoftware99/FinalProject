@@ -1,0 +1,15 @@
+D:\KampIntro\MyFinalProject\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\KampIntro\MyFinalProject\Entities\bin\Debug\net6.0\Entities.dll
+D:\KampIntro\MyFinalProject\Entities\bin\Debug\net6.0\Entities.pdb
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.dll
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.pdb
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\KampIntro\MyFinalProject\Entities\bin\Debug\net6.0\Core.dll
+D:\KampIntro\MyFinalProject\Entities\bin\Debug\net6.0\Core.pdb
+D:\KampIntro\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
